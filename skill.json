@@ -1,0 +1,9 @@
+{
+  "name": "genpark-schnorr-zero-knowledge-prover-skill",
+  "version": "1.0.0",
+  "description": "Interactive Schnorr Zero-Knowledge Identification (ZKP) protocol proving private key knowledge via 3-pass commitment, challenge, and response.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
